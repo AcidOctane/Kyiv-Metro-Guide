@@ -1,0 +1,14 @@
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\bin\Debug\KyivMteroGuide.exe.config
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\bin\Debug\KyivMteroGuide.exe
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\bin\Debug\KyivMteroGuide.pdb
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide.csprojResolveAssemblyReference.cache
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\MainWindow.g.cs
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\App.g.cs
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide_MarkupCompile.cache
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide_MarkupCompile.lref
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\MainWindow.baml
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide.g.resources
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide.Properties.Resources.resources
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide.csproj.GenerateResource.Cache
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide.exe
+c:\users\asidorenko\documents\visual studio 2015\Projects\KyivMteroGuide\KyivMteroGuide\obj\Debug\KyivMteroGuide.pdb
